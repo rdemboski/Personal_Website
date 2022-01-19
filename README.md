@@ -1,4 +1,4 @@
-# Personal_Website
-Backup of my website's files
+# My Website
+Backup of my website's source code
 
 www.ryandemboski.xyz
